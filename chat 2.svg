@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="mdi-shield-bug-outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.63 17.39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2cd97b;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,17.16V1.51C0,.68,.67,0,1.51,0h15.61c.83,0,1.51,.67,1.51,1.51V12.65c0,.83-.67,1.5-1.5,1.51l-12.72,.05c-.37,0-.73,.14-1.01,.39L.38,17.33c-.15,.13-.38,.03-.38-.17ZM2,2.01V13.16l1.04-.95,13.58-.05V2.01H2Z"/>
+  <rect class="cls-1" x="3.05" y="8.22" width="8.65" height="2.12"/>
+  <rect class="cls-1" x="3.05" y="4.41" width="11.04" height="2.12"/>
+</svg>
